@@ -1,9 +1,16 @@
-# Paint-App
+# Paint App🎨
 Fun painting application to create some art!
 
+---
+
 Author: John J Bajor
+<br/>
 Start Date: 13 January 2022
+<br/>
 Last Edit: 20 March 2022
+<br/>
+
+---
 
 Title: Paint App
 
@@ -14,7 +21,8 @@ and sizes, and clear the image if they wish.
 Purpose: LSU Spring 2022 CSC 2463 'Paint App' assignment, submitted to professor Jesse Allison
 Grade earned: 100%
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////
+---
 
 Bugs
-    * When user colors over the paint selection, size, or clear buttons, they activate
+<br/>
+* When user colors over the paint selection, size, or clear buttons, they activate
